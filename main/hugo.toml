@@ -25,6 +25,31 @@ URL = "js/library/fontfaceobserver.js"
 [module]
 # The following mounts are required for the theme to be able to load bootstrap
 # Remember also to copy the theme's `package.json` to your site, and run `npm install`
+# Restore default mounts (defining any mount removes all defaults)
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
+
+[[module.mounts]]
+source = "content"
+target = "content"
+
+[[module.mounts]]
+source = "data"
+target = "data"
+
+[[module.mounts]]
+source = "archetypes"
+target = "archetypes"
+
 [[module.mounts]]
 source = "node_modules/bootstrap/scss"
 target = "assets/scss/bootstrap"
