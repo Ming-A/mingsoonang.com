@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mingsoonang.com/"
 languageCode = "en-us"
 themesDir = "../themes"
 theme = "adritian-free-hugo-theme"
@@ -75,13 +75,3 @@ copyright = "© Ming Soon Ang. Free Hugo theme by Adrián Moreno Peña."
 _2x = "img/general/design-and-code-radity@2x.png"
 alt = "Design & Code - Radity"
 x = "img/general/design-and-code-radity.png"
-
-[deployment]
-  [[deployment.targets]]
-    name = "S3 www.mingshome.xyz"
-    URL = "s3://www.mingshome.xyz?region=ap-southeast-1"
-
-  [[deployment.matchers]]
-    pattern = "^.+\\.(png|jpg|webp)$"
-    cacheControl = "max-age=86400"
-    gzip = false
