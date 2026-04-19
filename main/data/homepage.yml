@@ -6,7 +6,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I'm Ming"
-  subtitle: "Aspiring IT Professional"
+  subtitle: "Systems Administrator & Homelab Enthusiast"
   description: >
     A technology enthusiast with a passion for working with servers and building my own homelab. 
     I love to tinker and explore new technologies, and am always looking for ways to improve my skills and knowledge in the field.
@@ -82,12 +82,13 @@ experience:
   enable: true
   title: "Experience"
   description: >
-      An IT professional with a foundation in networking, server management, and IT infrastructure 
-      operations. Currently, I work as an IT Infrastructure Operation Engineer at Huawei Technology (Malaysia), 
-      managing Full Fiber Campus solutions, regional IT projects, and ensuring seamless operations across the Asia Pacific region. 
+      An IT professional with a foundation in networking, server management, and systems administration.
+      Currently working as a Junior System Administrator at DUG, applying and expanding my skills in
+      systems administration and automation within a challenging and supportive environment.
 
-      My role involves incident management, vendor coordination, and providing level 1 and 2 technical support. I have a strong interest 
-      in infra and always willing to upskill my self, aiming to help organizations maintain their infrastructure while continuously growing as a professional.
+      In my free time, I run a homelab that mirrors an enterprise environment, experimenting with
+      networking, security, automation, and modern DevOps practices. I have a strong interest in
+      infrastructure and am always looking to upskill, currently studying DevOps/SRE with KodeKloud.
 
   button:
     icon: "icon-linkedin-fill"
@@ -122,7 +123,7 @@ client_and_work:
       is_even: true
 
     - title: "Smart Homes/Offices"
-      description: "Automating daily tasks to bring convinence to people at their home or offices. Picture beside is a trial test for face detection."
+      description: "Automating daily tasks to bring convenience to people at their home or offices. Picture beside is a trial test for face detection."
       button:
         icon: "icon-arrow-right"
         btnText: "More Info"

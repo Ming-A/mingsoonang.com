@@ -1,17 +1,20 @@
 ---
-date: 2020-01-01T00:00:00+01:00
+date: 2022-01-01T00:00:00+08:00
 draft: false
-title: "Technical Support Specialist | Freelance"
-jobTitle: "Freelance"
+title: "IT Consultant | Freelance"
+jobTitle: "IT Consultant"
 company: "Freelance"
 location: "Remote / SG"
-duration: "2022-2024"
+duration: "Jan 2022 - Jan 2024"
 
 ---
+# IT Consultant | Freelance
+• Developed an energy and air quality monitoring system for Auto Life Tech Pte. Ltd. (WeWork SG), building real-time dashboards and automated alerts.
 
-# Technical Support Specialist | Freelance
-• Delivered tailored solutions to clients seeking technical support and assistance, ensuring seamless resolution of issues and addressing inquiries with a client-centric approach.
+• Set up and maintained IoT devices (sensors, Raspberry Pi, Home Assistant) for remote clients, ensuring reliable performance.
 
-• Conducted troubleshooting and diagnostics of systems to identify and rectify issues promptly, maintaining optimal functionality for clients.
+• Provided hands-on technical support for clients across hardware, software, and network issues.
 
-• Orchestrated the setup of equipment for various projects, overseeing the proper installation and functionality to meet project requirements.
+• Assisted in R&D projects, testing new tech integrations and improving system efficiency based on client feedback.
+
+• Streamlined equipment deployments from initial setup through to on-site and remote troubleshooting.

@@ -5,7 +5,7 @@ title: "IT Infrastructure Operation Engineer | Huawei Technologies"
 jobTitle: "IT Infrastructure Operation Engineer"
 company: "Huawei Technologies"
 location: "KL, Malaysia"
-duration: "Apr 2024 - Present"
+duration: "Apr 2024 - Apr 2025"
 
 ---
 # IT Infrastructure Operation Engineer | Huawei Technologies
