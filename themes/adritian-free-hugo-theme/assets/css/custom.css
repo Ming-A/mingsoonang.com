@@ -336,3 +336,12 @@ aside.content-browser {
         padding-top: 40px;
     }
 }
+
+/* spacing between lead paragraph and buttons */
+.rad-showcase .lead {
+    margin-bottom: 24px;
+}
+
+.container-experience .lead {
+    margin-bottom: 24px;
+}

@@ -4,7 +4,7 @@
             {{ range .Site.Data.homepage.links.links }}
             <a href="{{ .URL }}" target="_blank" class="btn btn-frameless">
                 {{- if .img }}
-                <img src="{{ .img }}" alt="{{ .label }}" class="icon-svg" style="width:1em;height:1em;vertical-align:-0.15em;margin-right:0.25em;">
+                <span style="width:1em;height:1em;display:inline-block;vertical-align:-0.15em;margin-right:0.25em;">{{ (resources.Get (strings.TrimPrefix "/" .img)).Content | safeHTML }}</span>
                 {{- else if .icon }}
                 <i class="icon-{{ .icon }}-line"></i>
                 {{- else }}

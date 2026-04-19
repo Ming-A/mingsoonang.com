@@ -12054,13 +12054,13 @@ textarea:focus {
 
 @media (min-width: 992px) {
     .section {
-        padding-top: 80px;
-        padding-bottom: 80px;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
 
     .section .row.row--padded {
-        margin-top: 80px;
-        margin-bottom: 80px;
+        margin-top: 40px;
+        margin-bottom: 40px;
     }
 
     .section div[class*="col-"].rad-col-text h2 {
@@ -12656,7 +12656,7 @@ textarea:focus {
 
 @media (min-width: 968px) {
     .rad-showcase {
-        min-height: 870px;
+        min-height: 600px;
         padding-top: 0;
         margin-bottom: 0;
     }
