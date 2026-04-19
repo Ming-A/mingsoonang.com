@@ -1,0 +1,18 @@
+<section id="links" class="section rad-animation-group">
+    <div class="container">
+        <div class="d-flex px-5 flex-wrap justify-content-around flex-md-row rad-fade-down rad-waiting rad-animate">
+            {{ range .Site.Data.homepage.links.links }}
+            <a href="{{ .URL }}" target="_blank" class="btn btn-frameless">
+                {{- if .img }}
+                <img src="{{ .img }}" alt="{{ .label }}" class="icon-svg" style="width:1em;height:1em;vertical-align:-0.15em;margin-right:0.25em;">
+                {{- else if .icon }}
+                <i class="icon-{{ .icon }}-line"></i>
+                {{- else }}
+                <i class="icon-arrow-right"></i>
+                {{- end }}
+                {{ .label }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>

@@ -32,9 +32,11 @@ links:
   - icon: "github"
     label: "Github"
     URL: "https://github.com/Ming-A"
-  - label: "WhatsApp"
+  - img: "/images/whatsapp.svg"
+    label: "WhatsApp"
     URL: "https://api.whatsapp.com/send?phone=60128380283"
-  - label: "Instagram"
+  - icon: "instagram"
+    label: "Instagram"
     URL: "https://www.instagram.com/mingsoonang"
 
 # about
