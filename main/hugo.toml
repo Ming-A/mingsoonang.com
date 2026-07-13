@@ -86,6 +86,8 @@ weight = 4
 
 [params]
 
+description = "Ming Soon Ang — systems administrator and homelab enthusiast passionate about server management, networking, and DevOps."
+
 sections = ["showcase", "links", "education", "experience", "client-and-work", "contact"]
 
 homepageExperienceCount = 4
